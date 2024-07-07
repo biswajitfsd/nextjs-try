@@ -8,5 +8,12 @@
       <jdbc-url>mongodb+srv://contactme.th5c4cw.mongodb.net/?retryWrites=true&amp;w=majority&amp;appName=ContactMe</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="verceldb@ep-autumn-leaf-a2c016pz-pooler.eu-central-1.aws.neon.tech" uuid="108c7360-4e51-4660-8edc-76f65048200b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ep-autumn-leaf-a2c016pz-pooler.eu-central-1.aws.neon.tech/verceldb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
