@@ -1,0 +1,5 @@
+name = "<YOUR_WORKER_NAME>"
+main = "src/index.js"
+compatibility_date = "2022-04-18"
+account_id = "f66fe0055b6f5cb13ea89b1571006da9" # ← Replace with your Account ID.
+workers_dev = true
